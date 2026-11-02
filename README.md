@@ -54,29 +54,6 @@ El diseño utiliza una paleta **morada y rosa sobre fondo oscuro**, con una disp
 
 Estas certificaciones forman parte de mis objetivos de aprendizaje; todavía no las he obtenido.
 
-## 🛠️ Cómo está construida
-
-Web estática desarrollada con **HTML, CSS y JavaScript**, preparada para GitHub Pages. No necesita instalación de dependencias ni compilación.
-
-Incluye navegación por secciones, acceso mediante teclado, respeto a la preferencia de movimiento reducido y una galería de certificados con vista ampliada. Las fuentes se cargan desde Google Fonts, con tipografías alternativas del sistema.
-
-```text
-.
-├── index.html           # Contenido y galería interactiva
-├── styles.css           # Estilo, colores y diseño adaptable
-├── certificados/        # Certificados y vistas previas
-├── .nojekyll
-└── README.md
-```
-
-## 🚀 Ver y actualizar la web
-
-**En local:** descarga el repositorio y abre `index.html` en tu navegador.
-
-**En GitHub:** modifica los archivos o súbelos desde **Add file → Upload files**. Mantén `index.html`, `styles.css` y la carpeta `certificados` en la raíz del repositorio. Guarda los cambios con **Commit changes**.
-
-Con GitHub Pages configurado para publicar desde `main` y `/ (root)`, los cambios se desplegarán automáticamente.
-
 ## 💜 Contacto
 
 - **Web:** [roma-software.github.io](https://roma-software.github.io/)
