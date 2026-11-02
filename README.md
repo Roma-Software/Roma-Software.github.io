@@ -32,8 +32,6 @@ Esta web reúne mi perfil, conocimientos y formación en un mismo lugar:
 - **Aprendizaje en curso:** certificaciones de pentesting para las que me estoy preparando.
 - **Contacto:** enlaces a GitHub, LinkedIn y correo electrónico.
 
-El diseño utiliza una paleta **morada y rosa sobre fondo oscuro**, con una disposición adaptable a móvil y ordenador.
-
 ## 💻 Lenguajes y entornos
 
 `Python` · `C++` · `C#` · `Bash` · `Fortran` · `MATLAB` · `Arduino`
